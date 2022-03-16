@@ -1,3 +1,4 @@
+/* Restart at 11:25 */
 let lastRenderTime = 0
 
 function main(currentTime) {
