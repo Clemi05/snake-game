@@ -10,7 +10,20 @@ body {
 }
 
 #game-board {
+  display: grid;
+  grid-template-rows: repeat(21, 1fr);
+  grid-template-columns: repeat(21, 1fr);
   background-color: #000000;
   width: 100vmin;
   height: 100vmin;
+}
+
+.snake {
+  background-color: #03a062;
+  border: .25vmin solid #ffffff;
+}
+
+.food {
+  background-color: #a00341;
+  border: .25vmin solid #ffffff;
 }
