@@ -1,6 +1,11 @@
-let food = { x: 5, y : 1 }
+let food = { x: 5, y : 1 };
+const EXPANSION_RATE = 1;
 
 export function update() {
+  if (onSnake(food)) {
+    expandSnake(EXPANSION_RATE);
+    food  = { x: 20, y: 10 };
+  }
 
 }
 
