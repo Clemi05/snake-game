@@ -9,6 +9,8 @@ body {
   background-color: #cccccc;
 }
 
+/* Game Board Style */
+
 #game-board {
   display: grid;
   grid-template-rows: repeat(21, 1fr);
@@ -18,12 +20,16 @@ body {
   height: 100vmin;
 }
 
+/* Snake Style */
+
 .snake {
   background-color: #03a062;
-  border: .25vmin solid #000000;
+  /* border: .25vmin solid #000000; */
 }
+
+/* Food Style */
 
 .food {
   background-color: #a00341;
-  border: .25vmin solid #000000;
+  /* border: .25vmin solid #000000; */
 }
