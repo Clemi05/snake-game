@@ -1,5 +1,6 @@
 import { getInputDirection } from "./input.js";
 
+/* Change SNAKE_SPEED if you want to change the speed of the snake mouvements */
 export const SNAKE_SPEED = 5;
 const snakeBody = [{ x: 11, y: 11 }];
 let newSegments = 0;
