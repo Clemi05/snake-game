@@ -1,3 +1,5 @@
+import { onSnake, expandSnake } from './snake.js';
+
 let food = { x: 5, y : 1 };
 const EXPANSION_RATE = 1;
 
