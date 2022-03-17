@@ -20,10 +20,10 @@ body {
 
 .snake {
   background-color: #03a062;
-  border: .25vmin solid #ffffff;
+  /* border: .25vmin solid #ffffff; */
 }
 
 .food {
   background-color: #a00341;
-  border: .25vmin solid #ffffff;
+  /* border: .25vmin solid #ffffff; */
 }
