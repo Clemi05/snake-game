@@ -24,6 +24,7 @@ body {
 
 .snake {
   background-color: #03a062;
+  /* If you want add some style to the snake uncomment the following: */
   /* border: .25vmin solid #000000; */
 }
 
@@ -31,5 +32,6 @@ body {
 
 .food {
   background-color: #a00341;
+  /* If you want add some style to the food uncomment the following: */
   /* border: .25vmin solid #000000; */
 }
