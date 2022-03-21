@@ -54,7 +54,7 @@ Following this project, I will continue working on small JavaScript projects (ca
 
 ### Useful resources
 
-- [Build Tic Tac Toe with JavaScript - Tutorial](https://www.youtube.com/watch?v=Y-GkMjUZsmM&ab_channel=WebDevSimplified)
+- [How To Code The Snake Game In Javascript](https://www.youtube.com/watch?v=QTcIXok9wNY)
 - [MDN Web Docs - Spread syntax](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Operators/Spread_syntax)
 - [Array/Object Destructuring Tutorial](https://www.youtube.com/watch?v=NIq3qLaHCIs&ab_channel=WebDevSimplified)
 
