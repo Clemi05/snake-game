@@ -1,6 +1,6 @@
 # Tic Tac Toc Game
 
-Snake game with HTML, CSS and JavaScript.
+Simple Snake game in JavaScript.
 
 ## Table of contents
 
