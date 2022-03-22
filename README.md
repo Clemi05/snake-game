@@ -26,7 +26,6 @@ Simple Snake game in JavaScript.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - JavaScript
 
