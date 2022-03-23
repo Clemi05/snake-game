@@ -10,6 +10,7 @@ const gameBoard = document.getElementById('game-board');
 function main(currentTime) {
   if (gameOver) {
     if (confirm('Game Over! You lose ahahaha! Press OK to restart.')) {
+      /* Change the window.location when using the app in localhost */
       window.location = '/snake-game/';
     }
     return
