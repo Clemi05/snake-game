@@ -1,4 +1,4 @@
-# Tic Tac Toc Game
+# Snake Game
 
 Simple Snake game in JavaScript.
 
