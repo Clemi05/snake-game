@@ -1,6 +1,6 @@
-# Tic Tac Toc Game
+# Snake Game
 
-Snake game with HTML, CSS and JavaScript.
+Simple Snake game in JavaScript.
 
 ## Table of contents
 
@@ -17,7 +17,7 @@ Snake game with HTML, CSS and JavaScript.
 
 ### Links
 
-- Live Site URL: [Click here to see live site]()
+- Live Site URL: [Click here to see live site](https://clemi05.github.io/snake-game)
 - Repository URL: [Click here to see repository](https://github.com/Clemi05/snake-game)
 
 ## My process
@@ -26,7 +26,6 @@ Snake game with HTML, CSS and JavaScript.
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
 - CSS Grid
 - JavaScript
 
